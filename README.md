@@ -1,12 +1,11 @@
 # 🌐 MovieVerse: My First Independent HTML & CSS Movie Review Blog! 🎥
 
-Hey there! Over the past few weeks, I've been diving deeper into the fundamentals of HTML and CSS. To solidify what I've learned, I built **MovieVerse**—a simple, fully static movie review blog—from scratch, without any frameworks or JavaScript. This is my **first solo frontend project**, separate from any university group work, and it gave me hands-on experience turning ideas into a real, browsable website.
+Hey there! Over the past few weeks, I've been diving deeper into the fundamentals of HTML and CSS. To solidify what I've learned, I built **MovieVerse** a simple, fully static movie review blog from scratch, without any frameworks or JavaScript. This is my **first solo frontend project**, separate from any university group work, and it gave me hands-on experience turning ideas into a real, browsable website.
 
 ![Project Preview](images/deadPoets-Society.jpg)  
 *(Screenshot of the home page hero section with movie cards)*
 
-## 🚀 Live Demo
-Check it out live here: [MovieVerse Demo](https://your-username.github.io/movieverse) *(Replace with your actual GitHub Pages link once deployed)*
+
 
 ## ✨ Key Features
 - **Multi-Page Structure**: Home (blog index), detailed review page (e.g., *Dead Poets Society*), About, and Contact pages.
