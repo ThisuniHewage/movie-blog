@@ -32,7 +32,7 @@ Hey there! Over the past few weeks, I've been diving deeper into the fundamental
 No JavaScript, no backend—just pure frontend fundamentals!
 
 ## 📂 Project Structure
-
+```text
 movieverse/
 ├── index.html          # Home page with movie cards & "Coming Soon" section
 ├── dpsReview.html      # Detailed review for Dead Poets Society
@@ -41,7 +41,7 @@ movieverse/
 ├── style.css           # Global stylesheet
 ├── images/             # Movie posters (deadPoets-Society.jpg, TheTerminal.jpg, etc.)
 └── README.md           # This file
-
+```
 
 
 ## 🎨 What I Learned & Improved
